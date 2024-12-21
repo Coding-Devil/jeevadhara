@@ -56,7 +56,7 @@ export default function Home() {
             title="Visionary"
             description="AI-powered scene description through audio output, for the visually impaired"
             icon={<EyeIcon className="h-12 w-12 text-blue-400" />}
-            link="https://jeevision-bolt.vercel.app/"
+            link="https://visionary-eta.vercel.app/"
             gradient="from-blue-500 to-purple-600"
           />
           <ServiceCard 
